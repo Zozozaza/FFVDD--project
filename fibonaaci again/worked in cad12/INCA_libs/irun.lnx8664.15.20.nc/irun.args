@@ -1,0 +1,9 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
+design.v
+testbench.v
++access+rw
++gui
++nccoverage+all

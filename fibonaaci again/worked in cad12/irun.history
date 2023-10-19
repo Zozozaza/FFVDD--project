@@ -1,0 +1,2 @@
+s1(08Sep2023:15:02:34):  irun design.v testbench.v +access+rw +gui +nccoverage+all 
+s2(08Sep2023:15:03:51):  irun design.v testbench.v +access+rw +gui +nccoverage+all 
