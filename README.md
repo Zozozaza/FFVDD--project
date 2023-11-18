@@ -106,6 +106,7 @@ The normal testbench constitutes a dynamic simulation, subjecting the design to 
 
 Normal testbench for Fibonacci series
 ![image](https://github.com/Zozozaza/FFVDD--project/assets/136055978/43ad9e7e-adb9-40c2-8a12-df3061e4d603)
+\
 ![image](https://github.com/Zozozaza/FFVDD--project/assets/136055978/5c8d7077-7a1c-476a-b1ed-fcac933f3273)
 
 Instantiate the Fibonacci module
@@ -138,11 +139,13 @@ A strategic layered testbench structure is implemented to scrutinize individual 
 
 4. Testbench Implementations
    4.1 Simulation results and analysis
+
 ![image](https://github.com/Zozozaza/FFVDD--project/assets/136055978/82c3e0c3-50f5-451f-b6df-4bec4aa5365a)
    Simulation result
    Fig4.1 gives us the simulation waveform
    Fig4.2 represents the waveform for the Fibonacci series, to confirm these values we have fig 4.4 where the input i=5 and hence the output f=5 and in fig 4.5 i=10 and f=55, these values correspond to out waveform hence confirming accuracy of the code.
-   ![image](https://github.com/Zozozaza/FFVDD--project/assets/136055978/5161f3c2-10c6-4ab9-9bbc-eec2d08692f8)
+
+![image](https://github.com/Zozozaza/FFVDD--project/assets/136055978/5161f3c2-10c6-4ab9-9bbc-eec2d08692f8)
 Fig4.3 shows that when we take a high value for input, we get 0 as an output, this is because we have set an upper limit at i=28 and if i>28 the output for these signals done_tick high, meaning completion.
 
 Analysis
