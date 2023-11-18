@@ -1,6 +1,7 @@
 1. Introduction
 1.1 Overview of the Fibonacci
-series design
+series design.
+
 The Fibonacci series, a renowned mathematical
 sequence, is characterized by each number being
 the sum of the two preceding ones. Typically
